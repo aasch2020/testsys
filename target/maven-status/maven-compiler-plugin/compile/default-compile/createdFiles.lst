@@ -1,0 +1,6 @@
+com\alasch\testsys\controller\StudentController.class
+com\alasch\testsys\service\StudentServiceImpl.class
+com\alasch\testsys\service\StudentService.class
+com\alasch\testsys\model\student.class
+com\alasch\testsys\TestsysApplication.class
+com\alasch\testsys\repository\StudentRepository.class
